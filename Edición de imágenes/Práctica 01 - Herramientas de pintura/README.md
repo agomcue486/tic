@@ -18,12 +18,12 @@ la mostrada.
 
 ## Un ejemplo de imagen a crear
 
-![](Ejemplo_Práctica_01.png)
+![<img src="Ejemplo_Práctica_01.png" width="100px">]()
 
 
 ## Reconocimiento
 
-[<img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png">](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+![<img src="https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png">](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
 
 Práctica obtenida de http://pelandintecno.blogspot.com/.
 * Se ha modificado el formato para adaptarlo a Github.
