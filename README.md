@@ -6,4 +6,5 @@
   * Práctica 01
 * Edición de vídeo
 * Ofimática
+* Redes y seguridad
 * Programación
